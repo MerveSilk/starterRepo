@@ -18,4 +18,10 @@ In order to avoid signing in and writing out your password every time you want t
 Follow the instructions in this link once you have navigated to Settings -> SSH keys -> New key in your Github account:
 https://help.github.com/en/enterprise/2.16/user/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
+Opt out of online advertising/ webchoices on each browser
+
+http://optout.aboutads.info/?c=2&lang=EN
+http://optout.networkadvertising.org/?c=1#!%2F
+http://www.youronlinechoices.com/uk/your-ad-choices
+
  
